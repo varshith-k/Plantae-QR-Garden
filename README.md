@@ -1,2 +1,3 @@
 # Plantae-QR-Garden
-A website to get to know about plants. 
+About
+A Web Application that is interactive for giving information about plants from pictures and their respective QR codes.
